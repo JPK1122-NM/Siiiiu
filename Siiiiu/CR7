@@ -233,3 +233,58 @@ Cristiano Ronaldo dos Santos Aveiro
   </script>
 </body>
 </html>
+<ul>
+      <li>5x Liga dos Campeões da UEFA</li>
+      <li>7x Campeonatos Nacionais</li>
+      <li>5x Bola de Ouro</li>
+      <li>Eurocopa 2016</li>
+      <li>Liga das Nações 2019</li>
+      <li>Maior artilheiro da história da Liga dos Campeões</li>
+      <li>Mais de 800 gols na carreira</li>
+    </ul>
+  </section>
+
+  <section id="fotos" class="gallery">
+    <h2>Fotos</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cristiano_Ronaldo_2017.jpg" alt="Cristiano Ronaldo 2017">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Cristiano_Ronaldo_2013.jpg" alt="Cristiano Ronaldo 2013">
+  </section>
+
+  <section id="videos" class="videos">
+    <h2>Vídeos</h2>
+    <iframe src="https://www.youtube.com/embed/1I5ZMmrOfnA" title="Cristiano Ronaldo - Goals & Skills"></iframe>
+    <iframe src="https://www.youtube.com/embed/Ly7N2gV2qkY" title="Cristiano Ronaldo - Documentário"></iframe>
+  </section>
+
+  <footer>
+    <p>Site feito para fins educativos - Todos os direitos das imagens e vídeos são de seus respectivos donos.</p>
+  </footer>
+</body>
+</html> <ul>
+      <li>5x Liga dos Campeões da UEFA</li>
+      <li>7x Campeonatos Nacionais</li>
+      <li>5x Bola de Ouro</li>
+      <li>Eurocopa 2016</li>
+      <li>Liga das Nações 2019</li>
+      <li>Maior artilheiro da história da Liga dos Campeões</li>
+      <li>Mais de 800 gols na carreira</li>
+    </ul>
+  </section>
+
+  <section id="fotos" class="gallery">
+    <h2>Fotos</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Cristiano_Ronaldo_2017.jpg" alt="Cristiano Ronaldo 2017">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Cristiano_Ronaldo_2013.jpg" alt="Cristiano Ronaldo 2013">
+  </section>
+
+  <section id="videos" class="videos">
+    <h2>Vídeos</h2>
+    <iframe src="https://www.youtube.com/embed/1I5ZMmrOfnA" title="Cristiano Ronaldo - Goals & Skills"></iframe>
+    <iframe src="https://www.youtube.com/embed/Ly7N2gV2qkY" title="Cristiano Ronaldo - Documentário"></iframe>
+  </section>
+
+  <footer>
+    <p>Site feito para fins educativos - Todos os direitos das imagens e vídeos são de seus respectivos donos.</p>
+  </footer>
+</body>
+</html>
